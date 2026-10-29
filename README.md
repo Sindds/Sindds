@@ -1,6 +1,6 @@
 # Frontend Portfolio
  
-Interactive portfolio built with React + TypeScript, showcasing practical development skills across three standalone applications.
+Interactive portfolio built with React, showcasing practical development skills across three standalone applications.
  
 **[Live Demo](https://sindds.vercel.app)**
  
